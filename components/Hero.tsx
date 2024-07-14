@@ -53,8 +53,8 @@ const Hero = () => {
           />
 
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            I am an advanced student in the University Technician in Programming
-            program at the National Technological University.
+            I am an advanced student in CS technicatura degree at the National
+            Technological University.
           </p>
           <p className="uppercase tracking-widest text-xs text-center text-blue-100 max-w-80">
             Dynamic Web made with Next.js, Framer motion, Three.js and Tailwind
